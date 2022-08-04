@@ -1,0 +1,18 @@
+.filter-table {
+  font-family: arial, sans-serif;
+  font-size: 14px;
+  width: 220px;
+  border-radius: 4px;
+  margin: 10px auto;
+  padding: 10px;
+  box-shadow: 5px 5px 20px #ddd;
+}
+
+.search-bar {
+  margin-bottom: 10px;
+}
+
+.category-row {
+  display: block;
+  margin-top: 5px;
+}
